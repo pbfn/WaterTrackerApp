@@ -9,4 +9,5 @@ val Roboto = FontFamily(
     Font(R.font.roboto_regular),
     Font(R.font.roboto_bold, FontWeight.Bold),
     Font(R.font.roboto_medium, FontWeight.Medium),
+    Font(R.font.roboto_light, FontWeight.Light),
 )
