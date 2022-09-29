@@ -41,6 +41,7 @@ fun TopBar(
     onBackArrowClicked: () -> Unit = {}
 ) {
     TopAppBar(
+        elevation = 0.dp,
         backgroundColor = BlueLight,
         title = {
             Row(verticalAlignment = Alignment.CenterVertically) {
